@@ -709,7 +709,6 @@ section,
 .hero img {
   position: relative;
   inset: 0;
-  display: block;
   width: 30%;
   height: 30%;
   object-fit: cover;
